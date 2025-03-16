@@ -29,7 +29,7 @@
     <section>
         <h2>আমাদের সার্ভিস</h2>
         <p>আমরা সেরা গুণমানের আতর এবং দ্রুত হোম ডেলিভারি সার্ভিস প্রদান করি।</p>
-        <a href="contact.html" class="btn">যোগাযোগ করুন:01815000706</a>
+        <a href="facebook.com" class="btn">@halalthought.shop</a>
     </section>
 </body>
 </html>
