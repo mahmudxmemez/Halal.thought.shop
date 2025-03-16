@@ -29,8 +29,7 @@
     </header>
     <section>
         <<p style="color: red; font-weight: bold; font-style: italic;">
-    এই লেখা লাল, বোল্ড এবং ইটালিক
-</p>
+    এই লেখা লাল, বোল্ড এবং ইটালিক</p>
         <p>আমরা সেরা গুণমানের আতর এবং দ্রুত হোম ডেলিভারি সার্ভিস প্রদান করি।</p>
         <a href="contact.html" class="btn">যোগাযোগ করুন</a>
     </section>
