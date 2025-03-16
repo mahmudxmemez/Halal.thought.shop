@@ -1,1 +1,1 @@
-# Halal.thought.shop
+# Halal Thought Shop
